@@ -1,4 +1,4 @@
-// Binary format readers/writers used by BCH Precipitation Monitoring.
+// Binary format readers/writers used by Precipitation Monitoring.
 // Pure ES module (no DOM): runs in the browser worker and in Node for testing.
 // Formats: GeoTIFF (read + write), GRIB1 simple packing, GRIB2 (5.0 simple, 5.41 PNG),
 // PNG (gray 8/16-bit), tar, zip.
