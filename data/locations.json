@@ -1,5 +1,11 @@
 {
- "points": [
+ "points": [  
+  {
+   "id": "zwhui5w37x",
+   "name": "HOME",
+   "lat": 37.82957350879117,
+   "lon": -84.00317072868349
+  },
   {
    "id": "62upasanbl",
    "name": "BCH Office",
@@ -11,12 +17,6 @@
    "name": "Wolf Branch Site",
    "lat": 36.22916385572163,
    "lon": -85.15749692916872
-  },
-  {
-   "id": "zwhui5w37x",
-   "name": "Home",
-   "lat": 37.82957350879117,
-   "lon": -84.00317072868349
   },
   {
    "id": "aoj9biv9cz",
