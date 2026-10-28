@@ -1,4 +1,4 @@
-// Data engine for BCH Precipitation Monitoring: finds, downloads, decodes and sums NWS
+// Data engine for Precipitation Monitoring: finds, downloads, decodes and sums NWS
 // precipitation grids entirely in the browser (runs inside js/worker.js).
 //
 //   Stage IV daily (NWS River Forecast Centers, radar + gauges), 24 h ending 12Z, 2016-present
@@ -45,7 +45,7 @@ export class UserError extends Error {}
 
 // ----------------------------------------------------------------- fetching + caching
 let refreshMark = 0;                  // recent files fetched before this are re-validated
-const CACHE_NAME = "bch-precip-data-v1";
+const CACHE_NAME = "precip-data-v1";
 const hasCacheApi = typeof caches !== "undefined";
 
 /** Forget listings and re-check recent (provisional) files on the next fetch. */
