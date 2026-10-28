@@ -1,4 +1,4 @@
-// BCH Precipitation Monitoring – page logic (Leaflet map, controls, saved locations).
+// Precipitation Monitoring – page logic (Leaflet map, controls, saved locations).
 // All data work happens in js/worker.js; grids come back as Float32Arrays and are drawn here.
 import {
   cellIndex, gridBounds, legendFor, colorOf, autoScale, autoDepScale, areaStats, areaMask,
@@ -36,8 +36,8 @@ function call(fn, args = [], onProgress) {
 }
 
 // ------------------------------------------------------------------ preferences (this browser)
-const PREF_KEY = "bchPrecip.prefs.v1";
-const LOC_KEY = "bchPrecip.locations.v1";
+const PREF_KEY = "Precip.prefs.v1";
+const LOC_KEY = "Precip.locations.v1";
 const store = {
   get(k, def) { try { const v = localStorage.getItem(k); return v ? JSON.parse(v) : def; } catch (_) { return def; } },
   set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); return true; } catch (_) { return false; } },
