@@ -1,0 +1,83 @@
+{
+ "points": [
+  {
+   "id": "62upasanbl",
+   "name": "BCH Office",
+   "lat": 38.08744386700864,
+   "lon": -84.53319668769838
+  },
+  {
+   "id": "1gtwa2s7ih",
+   "name": "Wolf Branch Site",
+   "lat": 36.22916385572163,
+   "lon": -85.15749692916872
+  },
+  {
+   "id": "zwhui5w37x",
+   "name": "Home",
+   "lat": 37.82957350879117,
+   "lon": -84.00317072868349
+  },
+  {
+   "id": "aoj9biv9cz",
+   "name": "Davila's House",
+   "lat": 37.87563252319576,
+   "lon": -84.64948654174806
+  },
+  {
+   "id": "pdsvau01zb",
+   "name": "Boston College",
+   "lat": 42.33906973610009,
+   "lon": -71.1669445037842
+  },
+  {
+   "id": "pdgew81o40",
+   "name": "Petrolia",
+   "lat": 40.31346861764579,
+   "lon": -124.27627086639406
+  },
+  {
+   "id": "35j8lr4i2u",
+   "name": "Irvine",
+   "lat": 37.699170032110366,
+   "lon": -83.97399902343751
+  },
+  {
+   "id": "qixz8ds7sn",
+   "name": "Stanton",
+   "lat": 37.84544369418375,
+   "lon": -83.86121749877931
+  },
+  {
+   "id": "vr4gczh4bp",
+   "name": "Campton",
+   "lat": 37.7342043518508,
+   "lon": -83.55016708374025
+  },
+  {
+   "id": "brxofcqmk4",
+   "name": "Jackson",
+   "lat": 37.55321960048787,
+   "lon": -83.38468551635744
+  },
+  {
+   "id": "2g1c37bo1h",
+   "name": "Whitesburg",
+   "lat": 37.118716304960124,
+   "lon": -82.82773017883302
+  },
+  {
+   "id": "i0hta0nu41",
+   "name": "Sandra & Gene's House",
+   "lat": 37.57601135683784,
+   "lon": -84.34392929077148
+  },
+  {
+   "id": "f3f6p59ne4",
+   "name": "Randy & Ellen's House",
+   "lat": 37.815615431270395,
+   "lon": -84.31948900222778
+  }
+ ],
+ "areas": []
+}
